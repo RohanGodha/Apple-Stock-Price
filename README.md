@@ -1,4 +1,4 @@
-# Apple-Stock-Price
+# Apple-Stock-Price (Data Analysis)
 
 **1. Install Library**
 
